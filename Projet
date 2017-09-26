@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Mon Mémento</title>
+  </head>
+  <body>
+    <h1>Les commandes Linux</h1>
+    <h2>afficher le manuel</h2>
+    <p><em>man ls</em></p>
+    <h3>afficher le contenu dossier courant</h3>
+      <p><em>ls</em></p>
+      <h4>afficher le contenu caché du dossier courant</h4>
+      <p><em>ls -a</em></p>
+      <h5>afficher le contenu du dossier courant version longue sans les fichiers cachés</h5>
+      <p><em>ls -l</em></p>
+      <h6>Afficher le contenu du dossier courant version longue avec les fichiers cachés</h6>
+      <p><em>ls -a -l</em></p>
+      <h7>Afficher le chemin du dossier courant</h7>
+    <pre><code></code></pre>
+  </body>
+</html>
